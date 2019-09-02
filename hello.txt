@@ -1,3 +1,6 @@
 hello hello hello me.
 good bye good bye
 tset1 test1
+からす　カラス
+
+cat cat
